@@ -1,9 +1,9 @@
 The Rainbow
-R
-O
-Y
-G
-B
-I
-V
+R ed
+O range 
+Y ellow
+G reen
+B lue
+I ndigo
+V iolet
 These are the colours of the rainow
